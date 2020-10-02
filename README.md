@@ -8,13 +8,13 @@
 
 ### _List of categories_
 
-- _*Data Structure*_
+- _Data Structure_
 
-- _\*Searching_
+- _Searching_
 
-- _\*Sorting_
+- _Sorting_
 
-- _\*Miscellaneous_
+- _Miscellaneous_
 
 #### _Feel free to add your own categories_
 
