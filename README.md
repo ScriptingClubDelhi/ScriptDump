@@ -20,4 +20,4 @@
 
 **For more information about HacktoberFest, visit this link <https://hacktoberfest.digitalocean.com/>**
 
-![HacktoberFest](Hacktoberfest.png)
+![HacktoberFest](Hacktoberfest2020.png)
